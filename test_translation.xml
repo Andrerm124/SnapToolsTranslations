@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<translations language="english">
-    <string name="key1" pack="1.0.0.0" flavour="beta">This is an item1</string>
-    <string name="key2">This is NOT the default text!</string>
-    <string name="key3">This is an item3</string>
-    <string name="key4">This is an item4</string>
-    <string name="home_description">This should replace the homescreen description</string>
-    <string name="master_switch_disabled">This should replace the masterswitch text</string>
-</translations>
