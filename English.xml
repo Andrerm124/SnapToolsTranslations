@@ -7,10 +7,25 @@
     <string name="application_initialisation_success_message">Successfully initialised application, an app restart will be performed now</string>
     <string name="application_initialisation_failed_title">Application Initialisation Failed</string>
     <string name="application_initialisation_failed_message">Root access denied, please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+
+    <!-- Framework & Pack Loading -->
     <string name="framework_load_error_title">Framework Load Error</string>
     <string name="pack_load_fatal_error_title">Fatal Error loading ModulePacks</string>
     <string name="pack_load_fatal_error_message">Fatal error loading module packs!</string>
     <string name="pack_update_title">New pack update available!</string>
-    <string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way.\n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+    <!-- !!Framework & Pack Loading!! -->
+
+    <!-- Main Activity -->
     <string name="master_switch_disabled">Master Switch Is Off: All functions are disabled</string>
+    <!-- !!Main Activity!! -->
+
+    <!-- Home Fragment -->
+    <string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way.\n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+    <string name="logged_in_title">Logged In</string>
+    <string name="logged_in_label">Logged in as: </string>
+    <string name="logout_button">Logout</string>
+    <string name="not_logged_in_title">Not Logged In</string>
+    <string name="login_message_reason">Login is required to use most features</string>
+    <string name="login_w_google_button">Login With Google</string>
+    <!-- !!Home Fragment!! -->
 </translations>
