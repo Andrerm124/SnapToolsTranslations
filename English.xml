@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations language="english">
+    <string name="default_translation_found_title">Found Translations</string>
+    <string name="default_translation_found_message">Automatically found a %s translation file.\nWould you like to use this language?</string>
+    <string name="automatic_initialisation_success">Automatic Initialisation Successful</string>
+    <string name="application_initialisation_success_title">Application Initialisation Successful</string>
+    <string name="application_initialisation_success_message">Successfully initialised application, an app restart will be performed now</string>
+    <string name="application_initialisation_failed_title">Application Initialisation Failed</string>
+    <string name="application_initialisation_failed_message">Root access denied, please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+    <string name="framework_load_error_title">Framework Load Error</string>
+    <string name="pack_load_fatal_error_title">Fatal Error loading ModulePacks</string>
+    <string name="pack_load_fatal_error_message">Fatal error loading module packs!</string>
+    <string name="pack_update_title">New pack update available!</string>
+    <string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way.\n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+    <string name="master_switch_disabled">Master Switch Is Off: All functions are disabled</string>
+</translations>
