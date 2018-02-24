@@ -1,32 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<translations language="english">
-    <string name="default_translation_found_title">Found Translations</string>
-    <string name="default_translation_found_message">Automatically found a %s translation file.\nWould you like to use this language?</string>
-    <string name="automatic_initialisation_success">Automatic Initialisation Successful</string>
-    <string name="application_initialisation_success_title">Application Initialisation Successful</string>
-    <string name="application_initialisation_success_message">Successfully initialised application, an app restart will be performed now</string>
-    <string name="application_initialisation_failed_title">Application Initialisation Failed</string>
-    <string name="application_initialisation_failed_message">Root access denied, please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+<translations language="ENTER LANGUAGE">
+	<!-- Misc -->
+	<string name="default_translation_found_title">Found Translations</string>
+	<string name="default_translation_found_message">Automatically found a %s translation file.\nWould you like to use this language?</string>
+	<string name="automatic_initialisation_success">Automatic Initialisation Successful</string>
+	<string name="application_initialisation_success_title">Application Initialisation Successful</string>
+	<string name="application_initialisation_success_message">Successfully initialised application, an app restart will be performed now</string>
+	<string name="application_initialisation_failed_title">Application Initialisation Failed</string>
+	<string name="application_initialisation_failed_message">Root access denied, please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+	<!-- !!Misc!! -->
 
-    <!-- Framework & Pack Loading -->
-    <string name="framework_load_error_title">Framework Load Error</string>
-    <string name="pack_load_fatal_error_title">Fatal Error loading ModulePacks</string>
-    <string name="pack_load_fatal_error_message">Fatal error loading module packs!</string>
-    <string name="pack_update_title">New pack update available!</string>
-    <!-- !!Framework & Pack Loading!! -->
+	<!-- Framework & Pack Loading -->
+	<string name="framework_load_error_title">Framework Load Error</string>
+	<string name="pack_load_fatal_error_title">Fatal Error loading ModulePacks</string>
+	<string name="pack_load_fatal_error_message">Fatal error loading module packs!</string>
+	<string name="pack_update_title">New pack update available!</string>
+	<!-- !!Framework & Pack Loading!! -->
 
-    <!-- Main Activity -->
-    <string name="master_switch_disabled">Master Switch Is Off: All functions are disabled</string>
-    <!-- !!Main Activity!! -->
+	<!-- Main Activity -->
+	<string name="master_switch_disabled">Master Switch Is Off: All functions are disabled</string>
+	<!-- !!Main Activity!! -->
 
-    <!-- Home Fragment -->
-    <string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way.\n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
-    <string name="logged_in_title">Logged In</string>
-    <string name="logged_in_label">Logged in as: </string>
-    <string name="logout_button">Logout</string>
-    <string name="trial_button">Activate Trial</string>
-    <string name="not_logged_in_title">Not Logged In</string>
-    <string name="login_message_reason">Login is required to use most features</string>
-    <string name="login_w_google_button">Login With Google</string>
-    <!-- !!Home Fragment!! -->
+	<!-- Home Fragment -->
+	<string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way. \n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+	<string name="logged_in_title">Logged In</string>
+	<string name="logged_in_label">Logged in as: </string>
+	<string name="logout_button">Logout</string>
+	<string name="trial_button">Activate Trial</string>
+	<string name="not_logged_in_title">Not Logged In</string>
+	<string name="login_message_reason">Login is required to use most features</string>
+	<string name="login_w_google_button">Login With Google</string>
+	<!-- !!Home Fragment!! -->
+
+	<!-- Settings Fragment -->
+	<string name="master_switch_title">Master Switch</string>
+	<string name="master_switch">Toggle all functions without reboot</string>
+	<string name="update_settings_title">Update Settings</string>
+	<string name="check_apk_update_switch">Check for APK updates</string>
+	<string name="check_pack_update_switch">Check for active pack updates</string>
+	<string name="check_pack_update_sc_switch">Check for active pack updates in Snapchat</string>
+	<string name="update_channel_label">Update Channel:</string>
+	<string name="force_update_check_button">Force APK Update Check</string>
+	<string name="misc_settings_title">Misc Settings</string>
+	<string name="kill_snapchat_switch">Kill Snapchat on setting change</string>
+	<string name="error_report_switch">Automatic error reporting</string>
+	<string name="icon_on_launch_switch">Show icon on successful launch</string>
+	<string name="back_opens_menu_switch">Back button opens menu</string>
+	<string name="enable_watchdog_switch">Enable app hang watchdog</string>
+	<string name="watchdog_timeout_label">Hang watchdog timeout:</string>
+	<string name="watchdog_time_unit_label">Seconds</string>
+	<string name="clear_snapchat_cache_button">Clear Snapchat Cache</string>
+	<string name="ui_settings_title">UI Settings</string>
+	<string name="app_theme_label">App Theme:</string>
+	<string name="translation_label">Translations:</string>
+	<string name="transition_anim_label">Show transition animations</string>
+	<string name="backup_restore_title">Setting Backup/Restore</string>
+	<string name="restore_profile_label">Restore Profile:</string>
+	<string name="backup_profile_button">Backup Settings Profile</string>
+	<!-- !!Settings Fragment!! -->
 </translations>
