@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+c<?xml version="1.0" encoding="utf-8"?>
 <translations language="german">
 	<!-- Misc -->
     <string name="default_translation_found_title">Übersetzung gefunden</string>
@@ -22,7 +22,7 @@
     <!-- !!Main Activity!! -->
 
     <!-- Home Fragment -->
-    <string name="home_description">SnapTools ist ein Projekt mit dem Ziel Snapchat Modifikationen durch das Xposed Framework hinzuzufügen. Wir stellen der populären Snapchat App auf modulare und natlose Art und Weise neue Funktionen und Features zur Verfügung.\n\nWir benutzen ein Cloud basiertes Download-System um das einfache Wechseln für neue Updates und neue unterstützte Snapchat Versionen zu ermöglichen, ohne dabe ein System Neustart zu erfordern</string>
+    <string name="home_description">SnapTools ist ein Projekt mit dem Ziel Snapchat Modifikationen durch das Xposed Framework hinzuzufügen. Wir stellen der populären Snapchat App auf modulare und natlose Art und Weise neue Funktionen und Features zur Verfügung. \n\nWir benutzen ein Cloud basiertes Download-System um das einfache Wechseln für neue Updates und neue unterstützte Snapchat Versionen zu ermöglichen, ohne dabe ein System Neustart zu erfordern</string>
     <string name="logged_in_title">Angemeldet</string>
     <string name="logged_in_label">Angemeldet als: </string>
     <string name="logout_button">Abmelden</string>
@@ -37,13 +37,13 @@
 	<string name="master_switch">Alle Funktionen ohne Neustart deaktivieren</string>
 	<string name="update_settings_title">Update Einstellungen</string>
 	<string name="check_apk_update_switch">Nach APK Updates suchen</string>
-	<string name="check_pack_update_switch">Nach aktiven Paket Updates suchen</string>
-	<string name="check_pack_update_sc_switch">Nach aktiven Paket Updates suchen in Snapchat</string>
+	<string name="check_pack_update_switch">Nach aktiven Packet Updates suchen</string>
+	<string name="check_pack_update_sc_switch">Nach aktiven Packet Updates suchen in Snapchat</string>
 	<string name="update_channel_label">Update Kanal:</string>
 	<string name="force_update_check_button">APK Update Check durchführen</string>
 	<string name="misc_settings_title">Sonstige Einstellungen</string>
 	<string name="kill_snapchat_switch">Snapchat nach Verändern der Einstellungen schließen</string>
-	<string name="error_report_switch">Automatisches Fehlerbericht</string>
+	<string name="error_report_switch">Automatischer Fehlerbericht</string>
 	<string name="icon_on_launch_switch">Symbol nach erfolgreichem Start anzeigen</string>
 	<string name="back_opens_menu_switch">"Zurück" öffnet Menu</string>
 	<string name="enable_watchdog_switch">Aktiviere App "Hang watchdog"</string>
