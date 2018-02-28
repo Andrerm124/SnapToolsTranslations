@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<translations language="german">
+    <string name="default_translation_found_title">Übersetzung gefunden</string>
+    <string name="default_translation_found_message">Eine Übersetzung wurde gefunden %s translation file.\nMöchten sie diese Übersetzung benutzen?</string>
+    <string name="automatic_initialisation_success">Automatische Initialisierung erfolgreich</string>
+    <string name="application_initialisation_success_title">Initialisierung der Anwendung erfolgreich</string>
+    <string name="application_initialisation_success_message">Erfolgreich die Andwendung initialisiert, ein Neustart der Anwendung wird nun ausgeführt</string>
+    <string name="application_initialisation_failed_title">Application Initialisation Failed</string>
+    <string name="application_initialisation_failed_message">Root Zugriff verweigert, bitte prüfen sie Ihren Root-Provider (z. B. Magisk) und stellen Sie sicher, dass dieser Snaptools Zugriff gewährt. please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+
+
+
+    <!-- Framework & Pack Loading -->
+    <string name="framework_load_error_title">Framework Fehler beim Laden</string>
+    <string name="pack_load_fatal_error_title">Fataler Fehler beim Laden des Pack</string>
+    <string name="pack_load_fatal_error_message">Ein fataler Fehler ist beim Laden des Packs aufgetreten!</string>
+    <string name="pack_update_title">Neues Pack Update verfügbar!</string>
+    <!-- !!Framework & Pack Loading!! -->
+
+    <!-- Main Activity -->
+    <string name="master_switch_disabled">Master Switch ist an: Alle Funktionen deaktiviert</string>
+    <!-- !!Main Activity!! -->
+
+    <!-- Home Fragment -->
+    <!--Was-->
+    <string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way.\n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+    <string name="logged_in_title">Angemeldet</string>
+    <string name="logged_in_label">Angemeldet als: </string>
+    <string name="logout_button">Abmelden</string>
+    <!-- uhm -->
+    <string name="trial_button">Probe aktivieren</string>
+    <string name="not_logged_in_title">Nicht angemeldet</string>
+    <string name="login_message_reason">Anmeldung zur Benutzung der meisten </string>
+    <string name="login_w_google_button">Mit Google anmelden</string>
+</translations>
