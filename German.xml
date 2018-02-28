@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations language="german">
+	<!-- Misc -->
+    <string name="default_translation_found_title">Übersetzung gefunden</string>
+    <string name="default_translation_found_message">Eine Übersetzung wurde gefunden %s Übersetzungs Datei.\nMöchten sie diese Übersetzung benutzen?</string>
+    <string name="automatic_initialisation_success">Automatische Initialisierung erfolgreich</string>
+    <string name="application_initialisation_success_title">Initialisierung der Anwendung erfolgreich</string>
+    <string name="application_initialisation_success_message">Erfolgreich die Andwendung initialisiert, ein Neustart der Anwendung wird nun ausgeführt</string>
+    <string name="application_initialisation_failed_title">Initialisierung der Anwendung fehlgeschlagen</string>
+    <string name="application_initialisation_failed_message">Root Zugriff verweigert, bitte prüfen sie Ihren Root-Provider (z. B. Magisk) und stellen Sie sicher, dass dieser Snaptools Zugriff gewährt.</string>
+    <!-- !!Misc!! -->
+
+    <!-- Framework & Pack Loading -->
+    <string name="framework_load_error_title">Fehler beim Laden des Anwendungsframeworks</string>
+    <string name="pack_load_fatal_error_title">Fataler Fehler beim Laden des Packets</string>
+    <string name="pack_load_fatal_error_message">Ein fataler Fehler ist beim Laden des Packets aufgetreten!</string>
+    <string name="pack_update_title">Neues Packet Update verfügbar!</string>
+    <!-- !!Framework & Pack Loading!! -->
+
+    <!-- Main Activity -->
+    <string name="master_switch_disabled">Master Switch ist ausgeschaltet: Alle Funktionen deaktiviert</string>
+    <!-- !!Main Activity!! -->
+
+    <!-- Home Fragment -->
+    <string name="home_description">SnapTools ist ein Projekt mit dem Ziel Snapchat Modifikationen durch das Xposed Framework hinzuzufügen. Wir stellen der populären Snapchat App auf modulare und natlose Art und Weise neue Funktionen und Features zur Verfügung.\n\nWir benutzen ein Cloud basiertes Download-System um das einfache Wechseln für neue Updates und neue unterstützte Snapchat Versionen zu ermöglichen, ohne dabe ein System Neustart zu erfordern</string>
+    <string name="logged_in_title">Angemeldet</string>
+    <string name="logged_in_label">Angemeldet als: </string>
+    <string name="logout_button">Abmelden</string>
+    <string name="trial_button">Probe aktivieren</string>
+    <string name="not_logged_in_title">Nicht angemeldet</string>
+    <string name="login_message_reason">Anmeldung zur Benutzung der meisten Funktionen benötigt</string>
+    <string name="login_w_google_button">Mit Google anmelden</string>
+    <!-- !!Home Fragment!! -->
+
+	<!-- Settings Fragment -->
+	<string name="master_switch_title">Master Switch</string>
+	<string name="master_switch">Alle Funktionen ohne Neustart deaktivieren</string>
+	<string name="update_settings_title">Update Einstellungen</string>
+	<string name="check_apk_update_switch">Nach APK Updates suchen</string>
+	<string name="check_pack_update_switch">Nach aktiven Paket Updates suchen</string>
+	<string name="check_pack_update_sc_switch">Nach aktiven Paket Updates suchen in Snapchat</string>
+	<string name="update_channel_label">Update Kanal:</string>
+	<string name="force_update_check_button">APK Update Check durchführen</string>
+	<string name="misc_settings_title">Sonstige Einstellungen</string>
+	<string name="kill_snapchat_switch">Snapchat nach Verändern der Einstellungen schließen</string>
+	<string name="error_report_switch">Automatisches Fehlerbericht</string>
+	<string name="icon_on_launch_switch">Symbol nach erfolgreichem Start anzeigen</string>
+	<string name="back_opens_menu_switch">"Zurück" öffnet Menu</string>
+	<string name="enable_watchdog_switch">Aktiviere App "Hang watchdog"</string>
+	<string name="watchdog_timeout_label">"Hang watchdog" Zeitüberschreitung:</string>
+	<string name="watchdog_time_unit_label">Sekunden</string>
+	<string name="clear_snapchat_cache_button">Snapchat Cache leeren</string>
+	<string name="ui_settings_title">UI Einstellungen</string>
+	<string name="app_theme_label">App Thema:</string>
+	<string name="translation_label">Übersetzungen:</string>
+	<string name="transition_anim_label">Übergangsanimationen zeigen</string>
+	<string name="backup_restore_title">Einstellungen Sicherung/Wiederherstellung</string>
+	<string name="restore_profile_label">Enstellungen wiederherstellen:</string>
+	<string name="backup_profile_button">Backup der Einstellungen erstellen</string>
+	<!-- !!Settings Fragment!! -->
+</translations>
