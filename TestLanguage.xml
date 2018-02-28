@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<translations language="english">
+<translations language="ENTER LANGUAGE">
+    <!-- Misc -->
     <string name="default_translation_found_title">Found Translations</string>
     <string name="default_translation_found_message">Automatically found a %s translation file.\nWould you like to use this language?</string>
     <string name="automatic_initialisation_success">Automatic Initialisation Successful</string>
@@ -7,6 +8,7 @@
     <string name="application_initialisation_success_message">Successfully initialised application, an app restart will be performed now</string>
     <string name="application_initialisation_failed_title">Application Initialisation Failed</string>
     <string name="application_initialisation_failed_message">Root access denied, please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+    <!-- !!Misc!! -->
 
     <!-- Framework & Pack Loading -->
     <string name="framework_load_error_title">Framework Load Error</string>
@@ -20,13 +22,40 @@
     <!-- !!Main Activity!! -->
 
     <!-- Home Fragment -->
-    <string name="home_description">SnoapToals does a thing to halp creapy fuckers do some things but it doesn't tell other people that it does said thing becaus otherwise it would be silly as you dont want anyone else to know youre doing a creapy thing with them</string>
-    <string name="logged_in_title">Loggity Inny</string>
-    <string name="logged_in_label">Loggy in as: </string>
-    <string name="logout_button">Lowgoat</string>
-    <string name="trial_button">Activia Triola</string>
-    <string name="not_logged_in_title">No Loggity Inny</string>
-    <string name="login_message_reason">Loggy is needy for do shit</string>
-    <string name="login_w_google_button">Loggy with Googly</string>
+    <string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way. \n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+    <string name="logged_in_title">Logged In</string>
+    <string name="logged_in_label">Logged in as: </string>
+    <string name="logout_button">Logout</string>
+    <string name="trial_button">Activate Trial</string>
+    <string name="not_logged_in_title">Not Logged In</string>
+    <string name="login_message_reason">Login is required to use most features</string>
+    <string name="login_w_google_button">Login With Google</string>
     <!-- !!Home Fragment!! -->
+
+    <!-- Settings Fragment -->
+    <string name="master_switch_title">Moister Swatch</string>
+    <string name="master_switch">Toggly functunus wifout rebootie</string>
+    <string name="update_settings_title">Updait Sattengs</string>
+    <string name="check_apk_update_switch">Chack for KPA updaties</string>
+    <string name="check_pack_update_switch">Chack for activia pock updaties</string>
+    <string name="check_pack_update_sc_switch">Chack for activia pock updaties in Snopchet</string>
+    <string name="update_channel_label">Updatie Chonnel:</string>
+    <string name="force_update_check_button">Farce KPA Updatie Chack</string>
+    <string name="misc_settings_title">Mosk Sattengs</string>
+    <string name="kill_snapchat_switch">Kell Snopchet on satteng chonge</string>
+    <string name="error_report_switch">Autemetic error reportaing</string>
+    <string name="icon_on_launch_switch">Shew icun on sucsesful lunch</string>
+    <string name="back_opens_menu_switch">Beck Buiton opans manu</string>
+    <string name="enable_watchdog_switch">Enabley pap heng dogwatcher</string>
+    <string name="watchdog_timeout_label">Hang dogwatcher timeout:</string>
+    <string name="watchdog_time_unit_label">Sacunds</string>
+    <string name="clear_snapchat_cache_button">Clair Snopchet Cach</string>
+    <string name="ui_settings_title">IU Sattengs</string>
+    <string name="app_theme_label">Pap Theem:</string>
+    <string name="translation_label">Trenslaychuns:</string>
+    <string name="transition_anim_label">Shaw trensischun animaychuns</string>
+    <string name="backup_restore_title">Sattengs Beckurp/Rasture</string>
+    <string name="restore_profile_label">Rasture Prafoil:</string>
+    <string name="backup_profile_button">Beckurp Sattengs Prafoil</string>
+    <!-- !!Settings Fragment!! -->
 </translations>
