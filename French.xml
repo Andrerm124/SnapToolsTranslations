@@ -7,9 +7,8 @@
 	<string name="application_initialisation_success_title">Initialisation de l'application réussie</string>
 	<string name="application_initialisation_success_message">Réussi d'initialiser l'application, l'application est redémarré maintenant</string>
 	<string name="application_initialisation_failed_title">Initialisation automatique ratée</string>
-	<string name="application_initialisation_failed_message">Accès root refusé, please make sure you check your Root provider (E.g Magisk) and allow SnapTools root access</string>
+	<string name="application_initialisation_failed_message">Accès root refusé, vérifiez si votre application de root (p. ex. Magisk) fonctionne correctement et and permettez Snaptools accès root.</string>
 	<!-- !!Misc!! -->
-  <!-- askjnfkjhearkhfahesujfhsuyihfiuahiuhedfchaluwerhbf-->
 
 	<!-- Framework & Pack Loading -->
 	<string name="framework_load_error_title">Erreur pendant chargement du système de l'application</string>
@@ -23,7 +22,7 @@
 	<!-- !!Main Activity!! -->
 
 	<!-- Home Fragment -->
-	<string name="home_description">SnapTools is a project aimed to provide Snapchat modifications using the Xposed Framework. We provide new functionality and features to the popular Snapchat application, in a seamless and modular way. \n\nWe use a cloud based download system to allow for straightforward updates as well as support for hotswapping of supported Snapchat versions without the need of a system reboot.</string>
+	<string name="home_description">SnapTools est un projet qui a pour but d'ajouter des modifications à Snapchat par le "Xposed Framework". Nous fournissons de nouveau fonctionnalités à l'application populaire de Snapchat, de façon intégrée et modulaire. \n\nNous utilisons à système de download basée sur un Cloud afin de permettre des mises à jour simples et directes et des échanges à chaud sans le besoin d'un redémarrage du système.</string>
 	<string name="logged_in_title">Connecté</string>
 	<string name="logged_in_label">Connecté comme: </string>
 	<string name="logout_button">Déconnecter</string>
