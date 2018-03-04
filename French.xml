@@ -4,10 +4,10 @@
 	<string name="default_translation_found_title">Traductions trouvées</string>
 	<string name="default_translation_found_message">Fichier de traduction %s automatiquement trouvé.\nVoulez-vous utiliser cette traduction?</string>
 	<string name="automatic_initialisation_success">Initialisation automatique réussie</string>
-	<string name="application_initialisation_success_title">Initialisation de l\'application réussie</string>
-	<string name="application_initialisation_success_message">Initialisation de l\'application réussie, un redémarrage de l\'applicaiton va maintenant être éffectué</string>
+	<string name="application_initialisation_success_title">Initialisation de l'application réussie</string>
+	<string name="application_initialisation_success_message">Initialisation de l'application réussie, un redémarrage de l'applicaiton va maintenant être éffectué</string>
 	<string name="application_initialisation_failed_title">Initialisation automatique échouée</string>
-	<string name="application_initialisation_failed_message">Accès root refusé, vérifier si votre application de gestion root (par ex. Magisk) fonctionne correctement et autoriser l\'accès root à Snaptools.</string>
+	<string name="application_initialisation_failed_message">Accès root refusé, vérifier si votre application de gestion root (par ex. Magisk) fonctionne correctement et autoriser l'accès root à Snaptools.</string>
 	<!-- !!Misc!! -->
 
 	<!-- Framework & Pack Loading -->
@@ -22,11 +22,11 @@
 	<!-- !!Main Activity!! -->
 
 	<!-- Home Fragment -->
-	<string name="home_description">SnapTools est un projet visant à fournir des modifications de Snapchat en utilisant le Framework d\'Xposed . Nous fournissons de nouvelles fonctionnalités et possibilités à l\'application populaire Snapchat , de façon transparente et modulaire. \n\nNous utilisons un système de téléchargement basée sur un Cloud afin de permettre des mises à jour simples et directes ainsi que des échanges à chaud sans le besoin de redémarrer le téléphone.</string>
+	<string name="home_description">SnapTools est un projet visant à fournir des modifications de Snapchat en utilisant le Framework d'Xposed . Nous fournissons de nouvelles fonctionnalités et possibilités à l'application populaire Snapchat , de façon transparente et modulaire. \n\nNous utilisons un système de téléchargement basée sur un Cloud afin de permettre des mises à jour simples et directes ainsi que des échanges à chaud sans le besoin de redémarrer le téléphone.</string>
 	<string name="logged_in_title">Connecté</string>
 	<string name="logged_in_label">Connecté en tant que: </string>
 	<string name="logout_button">Déconnecter</string>
-	<string name="trial_button">Activater la période d\'éssai</string>
+	<string name="trial_button">Activater la période d'éssai</string>
 	<string name="not_logged_in_title">Non connecté</string>
 	<string name="login_message_reason">Connectez-vous pour accéder à la plupart des fonctions</string>
 	<string name="login_w_google_button">Connecter via Google</string>
@@ -36,22 +36,22 @@
 	<string name="master_switch_title">Master Switch</string>
 	<string name="master_switch">Permutter toutes les fonctions sans redémarrage</string>
 	<string name="update_settings_title">Réglages des mises à jours</string>
-	<string name="check_apk_update_switch">Vérifier les mises à jour de l\'APK</string>
+	<string name="check_apk_update_switch">Vérifier les mises à jour de l'APK</string>
 	<string name="check_pack_update_switch">Vérifier les mises à jours des packs</string>
 	<string name="check_pack_update_sc_switch">Vérifier les mises à jour du pack activé dans Snapchat</string>
 	<string name="update_channel_label">Canal de mises à jour:</string>
-	<string name="force_update_check_button">Vérifier les mises à jour de l\'APK</string>
+	<string name="force_update_check_button">Vérifier les mises à jour de l'APK</string>
 	<string name="misc_settings_title">Réglages divers</string>
 	<string name="kill_snapchat_switch">Forcer la fermeture de Snapchat après un changement de réglage</string>
-	<string name="error_report_switch">Rapport d\'erreurs automatique</string>
-	<string name="icon_on_launch_switch">Afficher l\'icône après un lancement réussi</string>
+	<string name="error_report_switch">Rapport d'erreurs automatique</string>
+	<string name="icon_on_launch_switch">Afficher l'icône après un lancement réussi</string>
 	<string name="back_opens_menu_switch">Le boutton de retour ouvre le menu</string>
 	<string name="enable_watchdog_switch">Activer la fonction de vérification de bloquage de Snapchat</string>
 	<string name="watchdog_timeout_label">Temps avant expiration de la fonction de vérification de bloquage:</string>
 	<string name="watchdog_time_unit_label">Secondes</string>
 	<string name="clear_snapchat_cache_button">Éffacer le cache de Snapchat</string>
-	<string name="ui_settings_title">Réglages de l\'interface</string>
-	<string name="app_theme_label">Thème de l\'application:</string>
+	<string name="ui_settings_title">Réglages de l'interface</string>
+	<string name="app_theme_label">Thème de l'application:</string>
 	<string name="translation_label">Traductions:</string>
 	<string name="transition_anim_label">Afficher les animations de transitions</string>
 	<string name="backup_restore_title">Réglage de sauvegarde/restauration</string>
