@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translations language="ENTER LANGUAGE">
+	<!-- Misc -->
+	<string name="default_translation_found_title">Znaleziono Tłumaczenia</string>
+	<string name="default_translation_found_message">Automatycznie znaleziono plik tłumaczenia% s. \ NCzy chcesz użyć tego języka?</string>
+	<string name="automatic_initialisation_success">Automatyczna inicjalizacja zakończona pomyślnie</string>
+	<string name="application_initialisation_success_title">Inicjalizacja aplikacji powiodła się</string>
+	<string name="application_initialisation_success_message">Pomyślnie zainicjowana aplikacja, zostanie ponownie uruchomiona</string>
+	<string name="application_initialisation_failed_title">Inicjalizacja aplikacji nie powiodła się</string>
+	<string name="application_initialisation_failed_message">Odmowa dostępu root, upewnij się, aby sprawdzić dostawcę root'a (np. Magisk) i zezwól SnapTools na dostęp do root-a</string>
+	<!-- !!Misc!! -->
+
+	<!-- Framework & Pack Loading -->
+	<string name="framework_load_error_title">Błąd załadowania struktury</string>
+	<string name="pack_load_fatal_error_title">Błąd krytyczny podczas ładowania paczki modułów</string>
+	<string name="pack_load_fatal_error_message">Błąd krytyczny podczas ładowania paczki modułów!</string>
+	<string name="pack_update_title">Nowa aktualizacja paczki dostępna!</string>
+	<!-- !!Framework & Pack Loading!! -->
+
+	<!-- Main Activity -->
+	<string name="master_switch_disabled">Wyłącznik główny jest wyłączony: Wszystkie funkcje są wyłączone</string>
+	<!-- !!Main Activity!! -->
+
+	<!-- Home Fragment -->
+	<string name="home_description">SnapTools to projekt mający na celu zapewnienie modyfikacji Snapchata przy użyciu struktury Xposed. Dostarczamy nową funkcjonalność do popularnej aplikacji Snapchat, w sposób płynny i modułowy. \ n \ nUżywamy systemu pobierania w chmurze, aby umożliwić proste aktualizacje, a także obsługę hotswapingu obsługiwanych wersji Snapchata bez konieczności ponownego uruchamiania systemu.</string>
+	<string name="logged_in_title">Zalogowano</string>
+	<string name="logged_in_label">Zalogowano jako: </string>
+	<string name="logout_button">Wyloguj</string>
+	<string name="trial_button">Aktywuj okres próbny</string>
+	<string name="not_logged_in_title">Nie zalogowano</string>
+	<string name="login_message_reason">Login jest wymagany aby użyć większość funkcji</string>
+	<string name="login_w_google_button">Zaloguj używając Google</string>
+	<!-- !!Home Fragment!! -->
+
+	<!-- Settings Fragment -->
+	<string name="master_switch_title">Przełącznik główny</string>
+	<string name="master_switch">Przełącz wszystkie funkcje bez ponownego uruchamiania</string>
+	<string name="update_settings_title">Ustawienia aktualizacji</string>
+	<string name="check_apk_update_switch">Sprawdź aktualizacje APK</string>
+	<string name="check_pack_update_switch">Sprawdź aktywne aktualizacje paczki</string>
+	<string name="check_pack_update_sc_switch">Sprawdź aktywne aktualizacje paczek w Snapchacie</string>
+	<string name="update_channel_label">Kanał aktualizacji:</string>
+	<string name="force_update_check_button">Wymuś sprawdzanie aktualizacji APK</string>
+	<string name="misc_settings_title">Pozostałe ustawienia</string>
+	<string name="kill_snapchat_switch">Zabij Snapchata po zmianie ustawień</string>
+	<string name="error_report_switch">Automatyczne zgłaszanie błędów</string>
+	<string name="icon_on_launch_switch">Pokaż ikonę po udanym uruchomieniu</string>
+	<string name="back_opens_menu_switch">Przycisk Wstecz otwiera menu</string>
+	<string name="enable_watchdog_switch">Włącz watchdog aplikacji</string>
+	<string name="watchdog_timeout_label">Czas oczekiwania na watchdog:</string>
+	<string name="watchdog_time_unit_label">Sekund</string>
+	<string name="clear_snapchat_cache_button">Wyczyść pamięć podręczną Snapchata</string>
+	<string name="ui_settings_title">Ustawienia interfejsu</string>
+	<string name="app_theme_label">Motyw aplikacji:</string>
+	<string name="translation_label">Tłumaczenia:</string>
+	<string name="transition_anim_label">Pokaż animacje przejścia</string>
+	<string name="backup_restore_title">Kopia zapasowa ustawień</string>
+	<string name="restore_profile_label">Przywróć profil:</string>
+	<string name="backup_profile_button">Zapisz ustawienia profilu</string>
+	<!-- !!Settings Fragment!! -->
+</translations>
