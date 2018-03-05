@@ -2,7 +2,7 @@
 <translations language="ENTER LANGUAGE">
 	<!-- Misc -->
 	<string name="default_translation_found_title">Znaleziono Tłumaczenia</string>
-	<string name="default_translation_found_message">Automatycznie znaleziono plik tłumaczenia% s. \ NCzy chcesz użyć tego języka?</string>
+	<string name="default_translation_found_message">Automatycznie znaleziono plik tłumaczenia%s.\nCzy chcesz użyć tego języka?</string>
 	<string name="automatic_initialisation_success">Automatyczna inicjalizacja zakończona pomyślnie</string>
 	<string name="application_initialisation_success_title">Inicjalizacja aplikacji powiodła się</string>
 	<string name="application_initialisation_success_message">Pomyślnie zainicjowana aplikacja, zostanie ponownie uruchomiona</string>
@@ -22,7 +22,7 @@
 	<!-- !!Main Activity!! -->
 
 	<!-- Home Fragment -->
-	<string name="home_description">SnapTools to projekt mający na celu zapewnienie modyfikacji Snapchata przy użyciu struktury Xposed. Dostarczamy nową funkcjonalność do popularnej aplikacji Snapchat, w sposób płynny i modułowy. \ n \ nUżywamy systemu pobierania w chmurze, aby umożliwić proste aktualizacje, a także obsługę hotswapingu obsługiwanych wersji Snapchata bez konieczności ponownego uruchamiania systemu.</string>
+	<string name="home_description">SnapTools to projekt mający na celu zapewnienie modyfikacji Snapchata przy użyciu struktury Xposed. Dostarczamy nową funkcjonalność do popularnej aplikacji Snapchat, w sposób płynny i modułowy. \n\nUżywamy systemu pobierania w chmurze, aby umożliwić proste aktualizacje, a także obsługę hotswapingu obsługiwanych wersji Snapchata bez konieczności ponownego uruchamiania systemu.</string>
 	<string name="logged_in_title">Zalogowano</string>
 	<string name="logged_in_label">Zalogowano jako: </string>
 	<string name="logout_button">Wyloguj</string>
@@ -36,11 +36,11 @@
 	<string name="master_switch_title">Przełącznik główny</string>
 	<string name="master_switch">Przełącz wszystkie funkcje bez ponownego uruchamiania</string>
 	<string name="update_settings_title">Ustawienia aktualizacji</string>
-	<string name="check_apk_update_switch">Sprawdź aktualizacje APK</string>
+	<string name="check_apk_update_switch">Sprawdzanie aktualizacji APK</string>
 	<string name="check_pack_update_switch">Sprawdź aktywne aktualizacje paczki</string>
-	<string name="check_pack_update_sc_switch">Sprawdź aktywne aktualizacje paczek w Snapchacie</string>
+	<string name="check_pack_update_sc_switch">Sprawdź aktywne aktualizacje paczki w Snapchacie</string>
 	<string name="update_channel_label">Kanał aktualizacji:</string>
-	<string name="force_update_check_button">Wymuś sprawdzanie aktualizacji APK</string>
+	<string name="force_update_check_button">Wymuś sprawdzenie aktualizacji APK</string>
 	<string name="misc_settings_title">Pozostałe ustawienia</string>
 	<string name="kill_snapchat_switch">Zabij Snapchata po zmianie ustawień</string>
 	<string name="error_report_switch">Automatyczne zgłaszanie błędów</string>
@@ -52,7 +52,7 @@
 	<string name="clear_snapchat_cache_button">Wyczyść pamięć podręczną Snapchata</string>
 	<string name="ui_settings_title">Ustawienia interfejsu</string>
 	<string name="app_theme_label">Motyw aplikacji:</string>
-	<string name="translation_label">Tłumaczenia:</string>
+	<string name="translation_label">Tłumaczenie:</string>
 	<string name="transition_anim_label">Pokaż animacje przejścia</string>
 	<string name="backup_restore_title">Kopia zapasowa ustawień</string>
 	<string name="restore_profile_label">Przywróć profil:</string>
