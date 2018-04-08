@@ -57,5 +57,6 @@
 	<string name="backup_restore_title">Réglage de sauvegarde/restauration</string>
 	<string name="restore_profile_label">Restaurer profile:</string>
 	<string name="backup_profile_button">Sauvegarder les réglages du profil</string>
+	<string name="reset_settings_button">Réinitialiser réglages</string>
 	<!-- !!Settings Fragment!! -->
 </translations>
